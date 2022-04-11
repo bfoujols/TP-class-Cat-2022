@@ -1,0 +1,15 @@
+{
+    "name": "redbull/tp-class-cat",
+    "autoload": {
+        "psr-4": {
+            "TpClassCat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Benoit Foujols",
+            "email": "benoit@foujols.com"
+        }
+    ],
+    "require": {}
+}
